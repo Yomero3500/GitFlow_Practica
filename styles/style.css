@@ -1,5 +1,6 @@
 .titulo{
     display: flex;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 .contenido{
