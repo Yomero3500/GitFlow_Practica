@@ -1,0 +1,16 @@
+.titulo{
+    display: flex;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.contenido{
+    display: inline;
+    padding-left: 2cm;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: italic;
+    font-weight: 700;
+}
+
+.imagen{
+    width: 15cm;
+}
